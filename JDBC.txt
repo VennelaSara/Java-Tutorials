@@ -1,0 +1,9 @@
+
+JDBC Connection
+
+->Load Driver
+->Connection
+->Statement Object
+->Fire Query
+->Iterators to get vlaues and use col number ex:-rs.getInt(3) - for formatting
+->Close Connection.
